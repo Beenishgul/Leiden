@@ -31,4 +31,13 @@ make
 
 
 
+✅ Tips:  
+1. Use **triple backticks** (```) for each dataset to preserve formatting.  
+2. Label each dataset clearly with a heading (`### Dataset 1`, `### Dataset 2`).  
+3. Include a **running example** section to show how to execute your program with the datasets.  
+
+If you want, I can **write the full README including Prerequisites, Build, Run, and Sample Datasets** ready for your GitHub repo.
+
+
+
 
