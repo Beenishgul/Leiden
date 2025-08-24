@@ -1,0 +1,79 @@
+Time taken for reading first graph is 8 minutes!
+previous quality: -0.000000
+new quality: 0.169795  imp = 0.169795
+new quality: 0.211623  imp = 0.041828
+new quality: 0.252221  imp = 0.040599
+new quality: 0.270742  imp = 0.018520
+new quality: 0.281444  imp = 0.010702
+new quality: 0.287444  imp = 0.006000
+new quality: 0.290806  imp = 0.003361
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Leiden step completed in 0 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aggregate step on Device completed in 2 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Preprocessing on Host completed in 1 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+previous quality: 0.290806
+new quality: 0.345682  imp = 0.054877
+new quality: 0.369440  imp = 0.023758
+new quality: 0.382619  imp = 0.013179
+new quality: 0.390636  imp = 0.008017
+new quality: 0.397878  imp = 0.007242
+new quality: 0.406208  imp = 0.008331
+new quality: 0.417874  imp = 0.011665
+new quality: 0.436417  imp = 0.018543
+new quality: 0.466099  imp = 0.029683
+new quality: 0.508892  imp = 0.042792
+new quality: 0.560473  imp = 0.051582
+new quality: 0.612129  imp = 0.051656
+new quality: 0.653679  imp = 0.041550
+new quality: 0.679980  imp = 0.026300
+new quality: 0.695524  imp = 0.015544
+new quality: 0.706145  imp = 0.010621
+new quality: 0.714351  imp = 0.008206
+new quality: 0.721183  imp = 0.006832
+new quality: 0.727099  imp = 0.005916
+new quality: 0.732300  imp = 0.005200
+new quality: 0.736872  imp = 0.004572
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Leiden step completed in 0 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aggregate step on Device completed in 0 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Preprocessing on Host completed in 0 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+previous quality: 0.736872
+new quality: 0.776871  imp = 0.039999
+new quality: 0.793021  imp = 0.016150
+new quality: 0.798333  imp = 0.005312
+new quality: 0.800898  imp = 0.002564
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Leiden step completed in 0 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aggregate step on Device completed in 0 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Preprocessing on Host completed in 0 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+previous quality: 0.800898
+new quality: 0.796013  imp = -0.004885
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Leiden step completed in 0 minutes!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+____________________________________________
+Leiden_GPU done and dusted :)
