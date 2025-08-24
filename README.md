@@ -23,12 +23,11 @@ This implementation leverages CUDA to parallelize the key phases of the Leiden a
 git clone <url_to_your_repository>
 cd <repository_name>
 make
-# Run CPU version
-./leiden <graph.txt> cpu
+
+./leiden <graph.txt> cpu    # Run CPU version
 make clean
 make
-# Run GPU version
-./leiden <graph.txt> gpu
+./leiden <graph.txt> gpu    # Run GPU version
 
 
 
