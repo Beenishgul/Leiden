@@ -21,11 +21,11 @@ This implementation leverages CUDA to parallelize the key phases of the Leiden a
 - cd <repository_name>
 
 # Compile the code using the provided Makefile
-make  		
+-make  		
  	
 # Run the executable with your dataset
-./leiden <graph.txt> cpu      # for CPU version
-./leiden <graph.txt> gpu     # for GPU version
+-./leiden <graph.txt> cpu      # for CPU version
+-./leiden <graph.txt> gpu     # for GPU version
 
 
 
