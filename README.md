@@ -17,8 +17,8 @@ This implementation leverages CUDA to parallelize the key phases of the Leiden a
 
 ## Quick Start
 # Clone your repository
-git clone < url_to_your_repository >
-cd <repository_name>
+- git clone < url_to_your_repository >
+- cd <repository_name>
 
 # Compile the code using the provided Makefile
 make  		
