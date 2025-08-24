@@ -16,9 +16,10 @@ This implementation leverages CUDA to parallelize the key phases of the Leiden a
   - `libm` (math library, usually comes with gcc)
 
 # **Input Format**
-Graph in the following format:
-#source target weight
-#0 1 1.0
-#1 2 2.5
-$2 0 0.7
+#Graph in the following format:
+# source target weight
+# 0 1 1.0
+# 1 2 2.5
+# 2 0 0.7
+
 
