@@ -25,7 +25,8 @@ cd <repository_name>
 make
 # Run CPU version
 ./leiden <graph.txt> cpu
-
+make clean
+make
 # Run GPU version
 ./leiden <graph.txt> gpu
 
