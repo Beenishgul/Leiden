@@ -24,19 +24,13 @@ git clone <url_to_your_repository>
 cd <repository_name>
 make
 
-./leiden <graph.txt> cpu    # Run CPU version
+./leiden <graph.txt> gpu    # Run GPU version
 make clean
 make
-./leiden <graph.txt> gpu    # Run GPU version
+./leiden <graph.txt> cpu    # Run CPU version
 
 
-
-✅ Tips:  
-1. Use **triple backticks** (```) for each dataset to preserve formatting.  
-2. Label each dataset clearly with a heading (`### Dataset 1`, `### Dataset 2`).  
-3. Include a **running example** section to show how to execute your program with the datasets.  
-
-If you want, I can **write the full README including Prerequisites, Build, Run, and Sample Datasets** ready for your GitHub repo.
+Datasets and samlple outputs are also available in the repository.
 
 
 
