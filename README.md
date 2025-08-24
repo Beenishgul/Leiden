@@ -16,4 +16,16 @@ This implementation leverages CUDA to parallelize the key phases of the Leiden a
   - `libm` (math library, usually comes with gcc)
 
 ## Quick Start
+# Clone your repository
+git clone < url_to_your_repository >
+cd <repository_name>
+
+# Compile the code using the provided Makefile
+make  		
+ 	
+# Run the executable with your dataset
+./leiden <graph.txt> cpu      # for CPU version
+./leiden <graph.txt> gpu     # for GPU version
+
+
 
