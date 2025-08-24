@@ -6,4 +6,11 @@ The Leiden algorithm is a popular method for community detection in networks, im
 #
 This implementation leverages CUDA to parallelize the key phases of the Leiden algorithm—local movement, refinement, and partition aggregation—making it significantly faster and scalable for large directed networks.
 
-
+## Prerequisites
+- **C++ compiler**: g++ (version >= 9 recommended)
+- **CUDA Toolkit**: version >= 11.0
+- **CMake** (optional, if using CMake for building)
+- **Make** utility
+- **Linux environment** (tested on Ubuntu 20.04)
+- **Optional libraries**:
+  - `libm` (math library, usually comes with gcc)
