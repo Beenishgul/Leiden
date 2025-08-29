@@ -31,7 +31,8 @@ make
 
 
 Datasets and samlple outputs are also available in the repository.
-For Large datasets please click on: https://figshare.com/s/3b51e463a56e2a374bdf
+For a large datasets please click on> >>  https://figshare.com/s/3b51e463a56e2a374bdf
+
 
 
 
